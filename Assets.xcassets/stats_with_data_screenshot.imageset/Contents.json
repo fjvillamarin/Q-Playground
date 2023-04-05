@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "stats_with_data_screenshot.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
